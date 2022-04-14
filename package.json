@@ -1,5 +1,5 @@
 {
-  "name": "react-native-skeleton-content",
+  "name": "@unitedwearenl/react-native-skeleton-content",
   "version": "1.0.26",
   "description": "A simple and fully customizable React Native component that implements a skeleton-like loader",
   "main": "lib/index.js",
